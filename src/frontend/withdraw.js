@@ -48,7 +48,7 @@ function Withdraw() {
       stamp: timeStamp,
     });
 
-    setStatus("withdraw");
+//     setStatus("withdraw");
     setShow(false);
   }
 
