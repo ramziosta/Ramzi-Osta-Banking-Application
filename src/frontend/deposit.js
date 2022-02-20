@@ -43,7 +43,7 @@ function Deposit() {
       stamp: timeStamp,
     });
 
-    setStatus("deposit")
+//     setStatus("deposit")
     setShow(false);
   }
 
