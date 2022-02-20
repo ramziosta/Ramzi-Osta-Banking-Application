@@ -19,7 +19,7 @@ function App() {
       <BrowserRouter>
         <NavBar />
             <Routes>
-              <Route path="/" exact  element={<Home />} />
+              <Route path="/" element={<Home />} />
               <Route path="/CreateAccount/" element={<CreateAccount />} />
               <Route path="/dashboard/" element={<DashBoard />} />
               <Route path="/deposit/" element={<Deposit />} />
