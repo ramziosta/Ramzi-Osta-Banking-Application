@@ -50,7 +50,7 @@ function Login() {
     }
     ctx.log = true;
 
-    setStatus("LogedIn");
+//     setStatus("LogedIn");
     ctx.sessionActivity.push({
       activity: "Login",
       stamp: timeStamp,
