@@ -177,7 +177,7 @@ function AccountRegistration() {
     console.log("🏦 " + accountNumber);
     setShow(false);
     ctx.register = true; //> this will be used in accountregister
-    setStatus("registered");
+//     setStatus("registered");
     clearForm();
   }
   //!-----------------------------------------------------
