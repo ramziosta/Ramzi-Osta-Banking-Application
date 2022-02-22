@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/Ramzi-Osta-Banking-Application/static/css/main.364fb69d.css",
-    "main.js": "/Ramzi-Osta-Banking-Application/static/js/main.c7dfbe6b.js",
-    "static/js/787.8c0e7b7d.chunk.js": "/Ramzi-Osta-Banking-Application/static/js/787.8c0e7b7d.chunk.js",
-    "static/media/BadBank2.jpg": "/Ramzi-Osta-Banking-Application/static/media/BadBank2.944cd784adecdde4118a.jpg",
-    "static/media/bb7.jpg": "/Ramzi-Osta-Banking-Application/static/media/bb7.6bbcfc004ec54055095c.jpg",
-    "static/media/bb6.jpg": "/Ramzi-Osta-Banking-Application/static/media/bb6.bb9aa9dea62393def906.jpg",
-    "index.html": "/Ramzi-Osta-Banking-Application/index.html",
-    "main.364fb69d.css.map": "/Ramzi-Osta-Banking-Application/static/css/main.364fb69d.css.map",
-    "main.c7dfbe6b.js.map": "/Ramzi-Osta-Banking-Application/static/js/main.c7dfbe6b.js.map",
-    "787.8c0e7b7d.chunk.js.map": "/Ramzi-Osta-Banking-Application/static/js/787.8c0e7b7d.chunk.js.map"
+    "main.css": "/static/css/main.337a426f.css",
+    "main.js": "/static/js/main.2009b4e2.js",
+    "static/js/787.4b31b6a8.chunk.js": "/static/js/787.4b31b6a8.chunk.js",
+    "index.html": "/index.html",
+    "main.337a426f.css.map": "/static/css/main.337a426f.css.map",
+    "main.2009b4e2.js.map": "/static/js/main.2009b4e2.js.map",
+    "787.4b31b6a8.chunk.js.map": "/static/js/787.4b31b6a8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.364fb69d.css",
-    "static/js/main.c7dfbe6b.js"
+    "static/css/main.337a426f.css",
+    "static/js/main.2009b4e2.js"
   ]
 }
